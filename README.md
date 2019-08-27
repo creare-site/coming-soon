@@ -1,6 +1,6 @@
 # [Coming Soon](https://websitemarket.ro/coming-soon)
 
-Site-uri de prezentare **coming soon**. Produse digitale WebsiteMArket. 
+Site-uri de prezentare **coming soon**. Produse digitale [WebsiteMarket](https://websitemarket.ro/). 
 
 ## [Site Fitness - Coming Soon](https://site-fitness-coming-soon.websitemarket.ro/)
 
