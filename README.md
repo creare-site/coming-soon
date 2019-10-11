@@ -1,4 +1,4 @@
-# [Coming Soon](https://websitemarket.ro/coming-soon)
+# [Pagini Coming Soon](https://websitemarket.ro/site-coming-soon/)
 
 Site-uri de prezentare **coming soon**. Produse digitale [WebsiteMarket](https://websitemarket.ro/). 
 
@@ -51,4 +51,4 @@ Site prezentare **Coming Soon**, firme si companii mici: [demo](https://site-com
 <br />
 
 ---
-[Coming Soon](https://websitemarket.ro/coming-soon) - Produse digitale **WebsiteMarket**
+[Pagini Coming Soon](https://websitemarket.ro/site-coming-soon/) - Produse digitale **WebsiteMarket**
